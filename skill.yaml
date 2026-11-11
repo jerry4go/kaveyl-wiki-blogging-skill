@@ -1,0 +1,5 @@
+name: "kaveyl-wiki-blogging"
+title: "Publish a blog post to Kaveyl Wiki"
+description: "Write, update, and verify a blog post in Kaveyl Wiki through MCP, REST, the browser, or a direct Markdown file."
+category: "Work and knowledge"
+include_in_prompt: false

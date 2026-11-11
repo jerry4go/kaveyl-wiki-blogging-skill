@@ -1,0 +1,5 @@
+.env
+*.env
+.kaveyl-wiki.env
+*token*
+*secret*
